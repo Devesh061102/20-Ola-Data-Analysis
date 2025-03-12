@@ -96,13 +96,4 @@ This project showcases how **data-driven insights** can empower better decision-
 - **SQL**: Structured queries for data analysis.  
 - **Power BI**: Interactive dashboard creation.  
 
----
 
-## 📝 Get Involved  
-
-Feel free to explore this repository, contribute, or connect with me for discussions. Let’s leverage the power of data to solve real-world challenges!  
-
----
-
-### 🌟 Connect and Collaborate  
-If you found this project interesting, let’s discuss ideas or potential opportunities to collaborate.  
